@@ -1,0 +1,1810 @@
+AGI Fruit
+Absolute Scepter
+Abyssal Eye
+Adamantine Armor
+Adamantine Boots
+Adamantine Gloves
+Adamantine Mask
+Adamantine Pants
+Agnis Adamantine Armor
+Agnis Adamantine Mask
+Agnis Adamantine Pants
+Agnis Ring of Poison
+Aileen Bow
+Akhir's Hirat Boots
+Akhir's Hirat Gloves
+Akhir's Hirat Pants
+Akhir's Ring of Ice
+Alacran Lance
+Alacran Shield
+Albatross Bow
+Ale
+Alvis Dragon Soul Staff
+Alvis Grand Soul Armor
+Alvis Grand Soul Boots
+Alvis Grand Soul Gloves
+Alvis Pendant of Water
+Ambition Armor
+Ambition Boots
+Ambition Gloves
+Ambition Mask
+Ambition Pants
+Ambition Shield
+Amis's Atlans Armor
+Amis's Atlans Boots
+Amis's Atlans Gloves
+Amis's Atlans Pants
+Anas's Hirat Armor
+Anas's Hirat Helm
+Anas's Hirat Pants
+Anas's Vis Shield
+Ancient Armor
+Ancient Boots
+Ancient Gloves
+Ancient Helm
+Ancient Icarus Scroll
+Ancient Pants
+Ancient Stick
+Angelic Bow
+Angelic Combination Note
+Angelic Staff
+Anonymous Leather Boots
+Anonymous Leather Helm
+Anonymous Leather Pants
+Anonymous Small Shield
+Antidote
+Antonia's Sword
+Anubis Legendary Armor
+Anubis Legendary Gloves
+Anubis Ring of Fire
+Apis Pendant of Fire
+Apis Valiant Boots
+Apollo Pad Armor
+Apollo Pad Gloves
+Apollo Pad Helm
+Apollo Pad Pants
+Apollo Pendant of Ice
+Apollo Ring of Magic
+Apollo Skull Staff
+Apple
+Apple +1
+Apple +2
+Aquagold Crossbow
+Arca's Prophecy
+Archangel Scroll +1
+Archangel Scroll +2
+Archangel Scroll +3
+Archangel Scroll +4
+Archangel Scroll +5
+Archangel Scroll +6
+Archangel Scroll +7
+Archangel Scroll +8
+Argo Spirit Armor
+Argo Spirit Gloves
+Argo Spirit Pants
+Arkajin Kenaz Armor
+Arkajin Kenaz Boots
+Arkajin Kenaz Gloves
+Arkajin Kenaz Pants
+Armor Splinter
+Armor of Bravery
+Armor of Destruction
+Armor of Guardsman
+Arquebus
+Arrow
+Arrow +1
+Arrow +2
+Arrow +3
+Arrow Viper Bow
+Aruan Guardian Armor
+Aruan Guardian Boots
+Aruan Guardian Helm
+Aruan Guardian Pants
+Ashcrow Armor
+Ashcrow Boots
+Ashcrow Gloves
+Ashcrow Helm
+Ashcrow Pants
+Assassin Summoning Orb
+Asura
+Asura Combination Note
+Atlans Armor
+Atlans Boots
+Atlans Gloves
+Atlans Pants
+Awakening Soul Elf Armor (ATK)
+Awakening Soul Elf Armor (ENE)
+Awakening Soul Elf Gloves (ATK)
+Awakening Soul Elf Gloves (ENE)
+Awakening Soul Elf Helm (ATK)
+Awakening Soul Elf Helm (ENE)
+Awakening Soul Elf Pants (ATK)
+Awakening Soul Elf Pants (ENE)
+Awakening Soul Fighter Armor
+Awakening Soul Fighter Boots
+Awakening Soul Fighter Helm
+Awakening Soul Fighter Pants
+Awakening Soul Knight Armor
+Awakening Soul Knight Boots
+Awakening Soul Knight Helm
+Awakening Soul Knight Pants
+Awakening Soul Lancer Armor
+Awakening Soul Lancer Gloves
+Awakening Soul Lancer Helm
+Awakening Soul Lancer Pants
+Awakening Soul Lord Armor
+Awakening Soul Lord Gloves
+Awakening Soul Lord Mask
+Awakening Soul Lord Pants
+Awakening Soul Magic Armor (ATK)
+Awakening Soul Magic Armor (WIZ)
+Awakening Soul Magic Boots (ATK)
+Awakening Soul Magic Boots (WIZ)
+Awakening Soul Magic Gloves (ATK)
+Awakening Soul Magic Gloves (WIZ)
+Awakening Soul Magic Pants (ATK)
+Awakening Soul Magic Pants (WIZ)
+Awakening Soul Rune Mage Armor
+Awakening Soul Rune Mage Gloves
+Awakening Soul Rune Mage Helm
+Awakening Soul Rune Mage Pants
+Awakening Soul Slayer Armor
+Awakening Soul Slayer Gloves
+Awakening Soul Slayer Helm
+Awakening Soul Slayer Pants
+Awakening Soul Summoner Armor
+Awakening Soul Summoner Gloves
+Awakening Soul Summoner Helm
+Awakening Soul Summoner Pants
+Awakening Soul Wizard Armor
+Awakening Soul Wizard Gloves
+Awakening Soul Wizard Helm
+Awakening Soul Wizard Pants
+Bali Summoning Orb
+Barnake Pad Boots
+Barnake Pad Helm
+Barnake Pad Pants
+Battle Axe
+Battle Bow
+Battle Jasper Necklace
+Battle Lapis Lazuli Necklace
+Battle Scepter
+Beastly Claw
+Berdysh
+Berserker Parchment
+Berserker Scale Armor
+Berserker Scale Boots
+Berserker Scale Gloves
+Berserker Scale Helm
+Berserker Scale Pants
+Bes Eclipse Pants
+Bes Staff of Destruction
+Beuroba
+Bill of Balrog
+Black Dragon Armor
+Black Dragon Boots
+Black Dragon Gloves
+Black Dragon Helm
+Black Dragon Pants
+Blade
+Blast Break
+Blast Combination Note
+Blessed Decoration Ring
+Blessed Divine Claw of Archangel
+Blessed Divine Crossbow of Archangel
+Blessed Divine Lance of Archangel
+Blessed Divine Rune Mace of Archangel
+Blessed Divine Scepter of Archangel
+Blessed Divine Short Sword of Archangel
+Blessed Divine Staff of Archangel
+Blessed Divine Stick of Archangel
+Blessed Divine Sword of Archangel
+Blessing's Holyangel Elf Armor
+Blessing's Holyangel Elf Gloves
+Blessing's Holyangel Elf Helm
+Blessing's Holyangel Elf Pants
+Blood Bone +1
+Blood Bone +2
+Blood Bone +3
+Blood Bone +4
+Blood Bone +5
+Blood Bone +6
+Blood Bone +7
+Blood Bone +8
+Bloodangel Elf Armor (ATK)
+Bloodangel Elf Armor (ENE)
+Bloodangel Elf Boots (ATK)
+Bloodangel Elf Boots (ENE)
+Bloodangel Elf Gloves (ATK)
+Bloodangel Elf Gloves (ENE)
+Bloodangel Elf Helm (ATK)
+Bloodangel Elf Helm (ENE)
+Bloodangel Elf Pants (ATK)
+Bloodangel Elf Pants (ENE)
+Bloodangel Fighter Armor
+Bloodangel Fighter Boots
+Bloodangel Fighter Helm
+Bloodangel Fighter Pants
+Bloodangel Knight Armor
+Bloodangel Knight Armor (Belief)
+Bloodangel Knight Boots
+Bloodangel Knight Boots (Belief)
+Bloodangel Knight Gloves
+Bloodangel Knight Gloves (Belief)
+Bloodangel Knight Helm
+Bloodangel Knight Helm (Belief)
+Bloodangel Knight Pants
+Bloodangel Knight Pants (Belief)
+Bloodangel Lancer Armor
+Bloodangel Lancer Boots
+Bloodangel Lancer Gloves
+Bloodangel Lancer Helm
+Bloodangel Lancer Pants
+Bloodangel Lord Armor
+Bloodangel Lord Boots
+Bloodangel Lord Gloves
+Bloodangel Lord Mask
+Bloodangel Lord Pants
+Bloodangel Magic Armor (ATK)
+Bloodangel Magic Armor (WIZ)
+Bloodangel Magic Boots (ATK)
+Bloodangel Magic Boots (WIZ)
+Bloodangel Magic Gloves (ATK)
+Bloodangel Magic Gloves (WIZ)
+Bloodangel Magic Pants (ATK)
+Bloodangel Magic Pants (WIZ)
+Bloodangel Rune Mage Armor
+Bloodangel Rune Mage Boots
+Bloodangel Rune Mage Gloves
+Bloodangel Rune Mage Helm
+Bloodangel Rune Mage Pants
+Bloodangel Summoner Armor
+Bloodangel Summoner Boots
+Bloodangel Summoner Gloves
+Bloodangel Summoner Helm
+Bloodangel Summoner Pants
+Bloodangel Wizard Armor
+Bloodangel Wizard Boots
+Bloodangel Wizard Gloves
+Bloodangel Wizard Helm
+Bloodangel Wizard Pants
+Blue Ink
+Bluewing Crossbow
+Bolt
+Bolt +1
+Bolt +2
+Bolt +3
+Bone Armor
+Bone Blade
+Bone Boots
+Bone Gloves
+Bone Helm
+Bone Pants
+Book of Lagle
+Book of Neil
+Book of Samut
+Boots of Bravery
+Boots of Destruction
+Bow
+Box of Kundun +1
+Box of Kundun +2
+Box of Kundun +3
+Box of Kundun +4
+Box of Kundun +5
+Box of Luck
+Bragi Dark Breaker
+Bragi Dark Phoenix Armor
+Bragi Dark Phoenix Boots
+Bragi Dark Phoenix Helm
+Bragi Dark Phoenix Pants
+Brass Armor
+Brass Boots
+Brass Gloves
+Brass Helm
+Brass Pants
+Brave Hero Elixir
+Breche Scroll
+Broken Horn
+Broken Sword
+Bronze Armor
+Bronze Boots
+Bronze Gloves
+Bronze Helm
+Bronze Pants
+Bronze Shield
+Broy Adamantine Boots
+Broy Adamantine Gloves
+Broy Adamantine Pants
+Broy Pendant of Ice
+Buckler
+COM Fruit
+Camill's Pluma Shield
+Camill's Sate Armor
+Camill's Sate Helm
+Camill's Sate Pants
+Cape of the Lord
+Captivation's Bloodangel Magic Armor
+Captivation's Bloodangel Magic Boots
+Captivation's Bloodangel Magic Gloves
+Captivation's Bloodangel Magic Pants
+Carthy's Ring of Poison
+Carthy's Sate Boots
+Carthy's Sate Gloves
+Carthy's Sate Pants
+Castol's Guardian Armor
+Castol's Guardian Boots
+Castol's Guardian Gloves
+Castol's Guardian Helm
+Castol's Guardian Pants
+Celestial Bow
+Certificate of Request (Lv1)
+Certificate of Request (Lv2)
+Ceto Rapier
+Ceto Ring of Earth
+Ceto Vine Boots
+Ceto Vine Gloves
+Ceto Vine Helm
+Ceto Vine Pants
+Chain Drive Parchment
+Chain Lightning Parchment
+Chamer Sacred Fire Armor
+Chamer Sacred Fire Boots
+Chamer Sacred Fire Pants
+Chamer Sacred Glove
+Chaos Dragon Axe
+Chaos Lightning Staff
+Chaos Nature Bow
+Chaos's Darkangel Summoner Armor
+Chaos's Darkangel Summoner Gloves
+Chaos's Darkangel Summoner Helm
+Chaos's Darkangel Summoner Pants
+Chaotic Diseier Scroll
+Cherry Blossom Petal
+Cherry Blossom Play-box
+Cherry Blossom Rice Cake
+Cherry Blossom Wine
+Christmas Transformation Ring
+Chromatic Staff
+Chrono Red Wing Gloves
+Chrono Red Wing Helm
+Chrono Red Wing Pants
+Chrono Ring of Magic
+Cloak of Death
+Cloak of Dominator
+Cloak of Isolation
+Cloak of Judgment
+Cloak of Limit
+Cloak of Transcendence
+Cloud Brass Helm
+Cloud Brass Pants
+Completion Certificate (Lv1)
+Completion Certificate (Lv2)
+Complex Potion
+Condor Feather
+Condor Flame
+Conmocion Lance
+Conquest's Bloodangel Lord Armor
+Conquest's Bloodangel Lord Gloves
+Conquest's Bloodangel Lord Mask
+Conquest's Bloodangel Lord Pants
+Constant Armor
+Constant Boots
+Constant Gloves
+Constant Helm
+Constant Pants
+Constant Shield
+Cool's Darkangel Rune Mage Armor
+Cool's Darkangel Rune Mage Gloves
+Cool's Darkangel Rune Mage Helm
+Cool's Darkangel Rune Mage Pants
+Coolutin's Potion
+Courage's Darkangel Knight Armor
+Courage's Darkangel Knight Boots
+Courage's Darkangel Knight Helm
+Courage's Darkangel Knight Pants
+Crescent Axe
+Crimson Glory
+Crimson Skull Armor
+Crimson Skull Boots
+Crimson Skull Helm
+Crimson Skull Pants
+Critical Damage Scroll
+Cross Shield
+Crossbow
+Cruel's Darkangel Slayer Armor
+Cruel's Darkangel Slayer Gloves
+Cruel's Darkangel Slayer Helm
+Cruel's Darkangel Slayer Pants
+Crystal Morning Star
+Crystal Sword
+Crystal of Destruction
+Crystal of Flame Strike
+Crystal of Multi-Shot
+Crystal of Recovery
+Cyclone Combination Note
+Cyclone Sword
+Dakia Short Sword
+Damage Reflection Parchment
+Dark Breaker
+Dark Coolutin's Potion
+Dark Devil Armor
+Dark Devil Boots
+Dark Devil Gloves
+Dark Devil Helm
+Dark Devil Pants
+Dark Devil Shield
+Dark Giant's Axe
+Dark Horse
+Dark Iron Knight's Sword
+Dark Knight Summoning Orb
+Dark Mammoth's Horn
+Dark Master Armor
+Dark Master Boots
+Dark Master Gloves
+Dark Master Mask
+Dark Master Pants
+Dark Phoenix Armor
+Dark Phoenix Boots
+Dark Phoenix Feather
+Dark Phoenix Gloves
+Dark Phoenix Helm
+Dark Phoenix Pants
+Dark Raven
+Dark Reign Blade
+Dark Side Parchment
+Dark Soul Armor
+Dark Soul Boots
+Dark Soul Gloves
+Dark Soul Helm
+Dark Soul Pants
+Dark Steel Armor
+Dark Steel Boots
+Dark Steel Gloves
+Dark Steel Mask
+Dark Steel Pants
+Dark Stinger Bow
+Dark Stone
+Darkness Parchment
+Darkness Wings
+Daybreak
+Deadly Staff
+Death Scythe Parchment
+Death-Beam Knight Flame
+Decoration Ring
+Demon
+Demonic Armor
+Demonic Boots
+Demonic Gloves
+Demonic Helm
+Demonic Pants
+Demonic Stick
+Deruff's Gru Hill Armor
+Deruff's Gru Hill Boots
+Deruff's Gru Hill Gloves
+Deruff's Gru Hill Helm
+Deruff's Gru Hill Pants
+Destruction's Bloodangel Fighter Armor
+Destruction's Bloodangel Fighter Boots
+Destruction's Bloodangel Fighter Helm
+Destruction's Bloodangel Fighter Pants
+Determination's Darkangel Magic Armor
+Determination's Darkangel Magic Boots
+Determination's Darkangel Magic Gloves
+Determination's Darkangel Magic Pants
+Determined's Holyangel Magic Armor
+Determined's Holyangel Magic Boots
+Determined's Holyangel Magic Gloves
+Determined's Holyangel Magic Pants
+Devast Claws
+Devil Cross Combination Note
+Devil Crossbow
+Devil Square Invitation +1
+Devil Square Invitation +2
+Devil Square Invitation +3
+Devil Square Invitation +4
+Devil Square Invitation +5
+Devil Square Invitation +6
+Devil Square Invitation +7
+Devil's Eye +1
+Devil's Eye +2
+Devil's Eye +3
+Devil's Eye +4
+Devil's Eye +5
+Devil's Eye +6
+Devil's Eye +7
+Devil's Key +1
+Devil's Key +2
+Devil's Key +3
+Devil's Key +4
+Devil's Key +5
+Devil's Key +6
+Devil's Key +7
+Devilwood Quiver
+Dimensional Mirror
+Dimensional Sign
+Dinorant
+Dione's Silk Armor
+Dione's Silk Boots
+Dione's Silk Gloves
+Dione's Silk Helm
+Dione's Silk Pants
+Divine Armor
+Divine Boots
+Divine Claw of Archangel
+Divine Crossbow of Archangel
+Divine Gloves
+Divine Helm
+Divine Lance of Archangel
+Divine Pants
+Divine Rune Armor
+Divine Rune Boots
+Divine Rune Gloves
+Divine Rune Helm
+Divine Rune Mace of Archangel
+Divine Rune Pants
+Divine Scepter of Archangel
+Divine Short Sword of Archangel
+Divine Staff of Archangel
+Divine Stick of Archangel
+Divine Sword of Archangel
+Dorov's Gru Hill Armor
+Dorov's Gru Hill Helm
+Dorov's Gru Hill Pants
+Dorov's Ring of Wind
+Double Axe
+Double Blade
+Double Poleaxe
+Dragon Armor
+Dragon Boots
+Dragon Gloves
+Dragon Helm
+Dragon Knight Armor
+Dragon Knight Boots
+Dragon Knight Gloves
+Dragon Knight Helm
+Dragon Knight Pants
+Dragon Lance
+Dragon Pants
+Dragon Roar Parchment
+Dragon Shield
+Dragon Slasher Parchment
+Dragon Slayer Shield
+Dragon Soul Staff
+Dragon Spear
+Drain Life Parchment
+Drake Vine Armor
+Drake Vine Boots
+Drake Vine Helm
+Drake Vine Pants
+Dria's Robust Armor
+Dria's Robust Boots
+Dria's Robust Gloves
+Dria's Robust Helm
+Dria's Robust Pants
+ENG Fruit
+Earring of Forefathers (Left)
+Earring of Forefathers (Right)
+Earring of Glory (Left)
+Earring of Glory (Right)
+Earring of Wrath (Left)
+Earring of Wrath (Right)
+Eclipse Armor
+Eclipse Boots
+Eclipse Gloves
+Eclipse Helm
+Eclipse Pants
+El Haz Rune Mace
+El Haz Shield
+Electric Spark Scroll
+Elegant Jewelry Case
+Elemental Capsule (Normal)
+Elemental Mace
+Elemental Powder
+Elemental Rune Mace
+Elemental Shield
+Elena's Letter
+Elite Healing Potion
+Elite Mana Potion
+Elite SD Potion
+Elite Yeti Summoning Orb
+Elixir
+Elixir Fragment
+Elixir Fragment Bunch
+Elune Demonic Armor
+Elune Demonic Gloves
+Elune Demonic Pants
+Elune Demonic Stick
+Elune Ring of Ice
+Elven Axe
+Elven Bow
+Elven Shield
+Elvian Wind Boots
+Elvian Wind Pants
+Emile El Haz Shield
+Emile Kenaz Armor
+Emile Kenaz Bandana
+Emile Kenaz Pants
+Emperor's Cape
+Empire Guardian's Stronghold
+Enis Legendary Armor
+Enis Legendary Boots
+Enis Legendary Helm
+Enis Legendary Pants
+Eplete Pendant of Lightning
+Eplete Plate Shield
+Eplete Scale Armor
+Eplete Scale Helm
+Eplete Scale Pants
+Erohim's Nightmare
+Errtel of Anger
+Errtel of Blessing
+Errtel of Divinity
+Errtel of Integrity
+Errtel of Radiance
+Eternal Wing Armor
+Eternal Wing Boots
+Eternal Wing Gloves
+Eternal Wing Helm
+Eternal Wing Pants
+Eternal Wing Stick
+Eternal Wings
+Evis Bone Armor
+Evis Bone Boots
+Evis Bone Pants
+Evis Pendant of Wind
+Excellent Adamantine Armor
+Excellent Adamantine Boots
+Excellent Adamantine Gloves
+Excellent Vine Gloves
+Excellent Vine Helm
+Excellent Vine Pants
+Excellent Violent Wind Armor
+Excellent Violent Wind Boots
+Excellent Violent Wind Gloves
+Excellent Violent Wind Helm
+Excellent Violent Wind Pants
+Excellent Violent Wind Stick
+Excellent Vis Lance
+Excellent Vis Shield
+Excellent War Quiver
+Excellent Wind Armor
+Excellent Wind Boots
+Excellent Wind Gloves
+Excellent Wind Helm
+Excellent Wind Pants
+Explosion Blade
+Explosion Parchment
+Extremity's Bloodangel Magic Armor
+Extremity's Bloodangel Magic Boots
+Extremity's Bloodangel Magic Gloves
+Extremity's Bloodangel Magic Pants
+Falchion
+Fallen's Darkangel Magic Armor
+Fallen's Darkangel Magic Boots
+Fallen's Darkangel Magic Gloves
+Fallen's Darkangel Magic Pants
+Fase Silk Boots
+Fase Silk Gloves
+Fase Silk Pants
+Fidelity Armor
+Fidelity Boots
+Fidelity Gloves
+Fidelity Helm
+Fidelity Pants
+Fire Burst Scroll
+Fire Flame Ghost Egg
+Fire Scream Scroll
+Firecracker
+Flail
+Flameberge
+Flat Short Sword
+Flurry's Bloodangel Elf Armor
+Flurry's Bloodangel Elf Gloves
+Flurry's Bloodangel Elf Helm
+Flurry's Bloodangel Elf Pants
+Forefather's Silver Heart Elf Armor (ATK)
+Forefather's Silver Heart Elf Armor (ENE)
+Forefather's Silver Heart Elf Gloves (ATK)
+Forefather's Silver Heart Elf Gloves (ENE)
+Forefather's Silver Heart Elf Helm (ATK)
+Forefather's Silver Heart Elf Helm (ENE)
+Forefather's Silver Heart Elf Pants (ATK)
+Forefather's Silver Heart Elf Pants (ENE)
+Forefather's Silver Heart Fighter Armor
+Forefather's Silver Heart Fighter Boots
+Forefather's Silver Heart Fighter Helm
+Forefather's Silver Heart Fighter Pants
+Forefather's Silver Heart Knight Armor
+Forefather's Silver Heart Knight Boots
+Forefather's Silver Heart Knight Helm
+Forefather's Silver Heart Knight Pants
+Forefather's Silver Heart Lancer Armor
+Forefather's Silver Heart Lancer Gloves
+Forefather's Silver Heart Lancer Helm
+Forefather's Silver Heart Lancer Pants
+Forefather's Silver Heart Lord Armor
+Forefather's Silver Heart Lord Gloves
+Forefather's Silver Heart Lord Mask
+Forefather's Silver Heart Lord Pants
+Forefather's Silver Heart Magic Armor (ATK)
+Forefather's Silver Heart Magic Armor (WIZ)
+Forefather's Silver Heart Magic Boots (ATK)
+Forefather's Silver Heart Magic Boots (WIZ)
+Forefather's Silver Heart Magic Gloves (ATK)
+Forefather's Silver Heart Magic Gloves (WIZ)
+Forefather's Silver Heart Magic Pants (ATK)
+Forefather's Silver Heart Magic Pants (WIZ)
+Forefather's Silver Heart Rune Mage Armor
+Forefather's Silver Heart Rune Mage Gloves
+Forefather's Silver Heart Rune Mage Helm
+Forefather's Silver Heart Rune Mage Pants
+Forefather's Silver Heart Slayer Armor
+Forefather's Silver Heart Slayer Gloves
+Forefather's Silver Heart Slayer Helm
+Forefather's Silver Heart Slayer Pants
+Forefather's Silver Heart Summoner Armor
+Forefather's Silver Heart Summoner Gloves
+Forefather's Silver Heart Summoner Helm
+Forefather's Silver Heart Summoner Pants
+Forefather's Silver Heart Wizard Armor
+Forefather's Silver Heart Wizard Gloves
+Forefather's Silver Heart Wizard Helm
+Forefather's Silver Heart Wizard Pants
+Frigg Celestial Bow
+Frigg Holy Spirit Armor
+Frigg Holy Spirit Boots
+Frigg Holy Spirit Pants
+Frigg Pendant of Water
+Frost Barrier
+Frost Mace
+Frost Rune Mace
+Frosty Blue Eye Elf Armor (ATK)
+Frosty Blue Eye Elf Armor (ENE)
+Frosty Blue Eye Elf Gloves (ATK)
+Frosty Blue Eye Elf Gloves (ENE)
+Frosty Blue Eye Elf Helm (ATK)
+Frosty Blue Eye Elf Helm (ENE)
+Frosty Blue Eye Elf Pants (ATK)
+Frosty Blue Eye Elf Pants (ENE)
+Frosty Blue Eye Fighter Armor
+Frosty Blue Eye Fighter Boots
+Frosty Blue Eye Fighter Helm
+Frosty Blue Eye Fighter Pants
+Frosty Blue Eye Knight Armor
+Frosty Blue Eye Knight Boots
+Frosty Blue Eye Knight Helm
+Frosty Blue Eye Knight Pants
+Frosty Blue Eye Lancer Armor
+Frosty Blue Eye Lancer Gloves
+Frosty Blue Eye Lancer Helm
+Frosty Blue Eye Lancer Pants
+Frosty Blue Eye Lord Armor
+Frosty Blue Eye Lord Gloves
+Frosty Blue Eye Lord Mask
+Frosty Blue Eye Lord Pants
+Frosty Blue Eye Magic Armor (ATK)
+Frosty Blue Eye Magic Armor (WIZ)
+Frosty Blue Eye Magic Boots (ATK)
+Frosty Blue Eye Magic Boots (WIZ)
+Frosty Blue Eye Magic Gloves (ATK)
+Frosty Blue Eye Magic Gloves (WIZ)
+Frosty Blue Eye Magic Pants (ATK)
+Frosty Blue Eye Magic Pants (WIZ)
+Frosty Blue Eye Rune Mage Armor
+Frosty Blue Eye Rune Mage Gloves
+Frosty Blue Eye Rune Mage Helm
+Frosty Blue Eye Rune Mage Pants
+Frosty Blue Eye Slayer Armor
+Frosty Blue Eye Slayer Gloves
+Frosty Blue Eye Slayer Helm
+Frosty Blue Eye Slayer Pants
+Frosty Blue Eye Summoner Armor
+Frosty Blue Eye Summoner Gloves
+Frosty Blue Eye Summoner Helm
+Frosty Blue Eye Summoner Pants
+Frosty Blue Eye Wizard Armor
+Frosty Blue Eye Wizard Gloves
+Frosty Blue Eye Wizard Helm
+Frosty Blue Eye Wizard Pants
+Fury's Bloodangel Knight Armor
+Fury's Bloodangel Knight Boots
+Fury's Bloodangel Knight Helm
+Fury's Bloodangel Knight Pants
+GM Box
+Gaia Golden Crossbow
+Gaia Silk Armor
+Gaia Silk Gloves
+Gaia Silk Helm
+Gaia Silk Pants
+Gaion Atlans Armor
+Gaion Atlans Boots
+Gaion Atlans Pants
+Gaion Pendant of Water
+Gaion's Orders
+Garuda Brass Armor
+Garuda Brass Boots
+Garuda Brass Gloves
+Garuda Brass Pants
+Garuda Pendant of Fire
+Gemstone
+Gemstone Bundle
+Gemstone Bundle +1
+Gemstone Bundle +2
+Giant Sword
+Giant Trident
+Giant's Piece of Ice
+Gladiator's Dagger
+Gladius
+Glorious Armor
+Glorious Boots
+Glorious Gloves
+Glorious Mask
+Glorious Pants
+Gloves of Bravery
+Gloves of Destruction
+Goblin Summoning Orb
+Gold Key
+Golden Box
+Golden Cherry Blossom Branch
+Golden Crossbow
+Gorgon Staff
+Grace Armor
+Grace Boots
+Grace Gloves
+Grace Helm
+Grace Pants
+Grace Shield
+Grand Soul Armor
+Grand Soul Boots
+Grand Soul Gloves
+Grand Soul Helm
+Grand Soul Pants
+Grand Soul Shield
+Grand Viper Staff
+Great Dragon Armor
+Great Dragon Boots
+Great Dragon Gloves
+Great Dragon Helm
+Great Dragon Pants
+Great Hammer
+Great Lord's Scepter
+Great Reign Crossbow
+Great Scepter
+Great Scythe
+Green Box
+Green Ink
+Gru Hill Armor
+Gru Hill Boots
+Gru Hill Gloves
+Gru Hill Helm
+Gru Hill Pants
+Guardian Angel
+Guardian Armor
+Guardian Boots
+Guardian Gloves
+Guardian Helm
+Guardian Pants
+Guardian Shield
+Guardian Spirit
+Guardian's Blessing
+Guardian's Holyangel Summoner Armor
+Guardian's Holyangel Summoner Gloves
+Guardian's Holyangel Summoner Helm
+Guardian's Holyangel Summoner Pants
+Gywen Guardian Armor
+Gywen Guardian Boots
+Gywen Guardian Gloves
+Gywen Pendant of Ability
+Gywen Silver Bow
+Hades Armor
+Hades Boots
+Hades Gloves
+Hades Helm
+Hades Pants
+Hades's Sphinx Armor
+Hades's Sphinx Boots
+Hades's Sphinx Gloves
+Hades's Sphinx Helm
+Hades's Sphinx Pants
+Halberd
+Hand Axe
+Harpy Ancient Armor
+Harpy Ancient Boots
+Harsh Strike Scroll
+Healing Orb
+Healing Potion
+Healing Potion +1
+Healing's Holyangel Elf Armor
+Healing's Holyangel Elf Gloves
+Healing's Holyangel Elf Helm
+Healing's Holyangel Elf Pants
+Heartless's Bloodangel Slayer Armor
+Heartless's Bloodangel Slayer Gloves
+Heartless's Bloodangel Slayer Helm
+Heartless's Bloodangel Slayer Pants
+Hegaton's Dragon Armor
+Hegaton's Dragon Boots
+Hegaton's Dragon Gloves
+Hegaton's Dragon Helm
+Hegaton's Dragon Pants
+Heliacal Sword
+Hell Maine's Insanity
+Hell Night Armor
+Hell Night Boots
+Hell Night Gloves
+Hell Night Pants
+Hell-Miner Horn
+Helm of Bravery
+Heras Skull Shield
+Heras Sphinx Armor
+Heras Sphinx Boots
+Heras Sphinx Gloves
+Heras Sphinx Helm
+Heras Sphinx Pants
+Hero Elixir
+High Refining Stone
+High Refining Stone Bundle
+High Refining Stone Bundle +1
+High Refining Stone Bundle +2
+Hirat Armor
+Hirat Boots
+Hirat Gloves
+Hirat Helm
+Hirat Pants
+Holy Spirit Armor
+Holy Spirit Boots
+Holy Spirit Gloves
+Holy Spirit Helm
+Holy Spirit Pants
+Holy Storm Claw
+Honor's Bloodangel Summoner Armor
+Honor's Bloodangel Summoner Gloves
+Honor's Bloodangel Summoner Helm
+Honor's Bloodangel Summoner Pants
+Horn Combination Note
+Horn Fragment
+Horn Shield
+Horn of Fenrir
+Horn of Fenrir +Destruction
+Horn of Fenrir +Illusion
+Horn of Fenrir +Protection
+Horn of Steal
+Horn of Uniria
+Horus Holy Storm Claw
+Horus Pendant of Ability
+Hurricane Armor
+Hurricane Boots
+Hurricane Gloves
+Hurricane Pants
+Hyon Dragon Boots
+Hyon Dragon Gloves
+Hyon Dragon Helm
+Hyon Lightning Sword
+Hyperion Bronze Armor
+Hyperion Bronze Boots
+Hyperion Bronze Pants
+Ice Walker's Mane
+Ignore Defense Parchment
+Illusion Sorcerer's Covenant +1
+Illusion Sorcerer's Covenant +2
+Illusion Sorcerer's Covenant +3
+Illusion Sorcerer's Covenant +4
+Illusion Sorcerer's Covenant +5
+Illusion Sorcerer's Covenant +6
+Imp
+Inberial Staff
+Increase Block Parchment
+Increase Health Parchment
+Innovation Parchment
+Invisibility Cloak +1
+Invisibility Cloak +2
+Invisibility Cloak +3
+Invisibility Cloak +4
+Invisibility Cloak +5
+Invisibility Cloak +6
+Invisibility Cloak +7
+Invisibility Cloak +8
+Invitation to Santa's Village
+Iris Armor
+Iris Boots
+Iris Gloves
+Iris Helm
+Iris Pants
+Iron Knight's Heart
+Iron Shield of the Magic
+Jack O'Lantern Blessings
+Jack O'Lantern Cry
+Jack O'Lantern Drink
+Jack O'Lantern Food
+Jack O'Lantern Wrath
+Jack Olantern Ring
+Jasper Necklace
+Jewel Combination Frame
+Jewel of Bless
+Jewel of Bless Bundle
+Jewel of Bless Bundle +1
+Jewel of Bless Bundle +2
+Jewel of Chaos
+Jewel of Chaos Bundle
+Jewel of Chaos Bundle +1
+Jewel of Chaos Bundle +2
+Jewel of Creation
+Jewel of Creation Bundle
+Jewel of Creation Bundle +1
+Jewel of Creation Bundle +2
+Jewel of Extension
+Jewel of Guardian
+Jewel of Guardian Bundle
+Jewel of Guardian Bundle +1
+Jewel of Guardian Bundle +2
+Jewel of Harmony
+Jewel of Harmony Bundle
+Jewel of Harmony Bundle +1
+Jewel of Harmony Bundle +2
+Jewel of Life
+Jewel of Life Bundle
+Jewel of Life Bundle +1
+Jewel of Life Bundle +2
+Jewel of Soul
+Jewel of Soul Bundle
+Jewel of Soul Bundle +1
+Jewel of Soul Bundle +2
+Justice's Darkangel Lord Armor
+Justice's Darkangel Lord Gloves
+Justice's Darkangel Lord Mask
+Justice's Darkangel Lord Pants
+Kantata Plate Armor
+Kantata Plate Boots
+Kantata Plate Gloves
+Kantata Ring of Poison
+Kantata Ring of Wind
+Karis Spirit Boots
+Karis Spirit Helm
+Karis Spirit Pants
+Katana
+Kenaz Armor
+Kenaz Bandana
+Kenaz Boots
+Kenaz Gloves
+Kenaz Pants
+Khone Dark Steel Boots
+Khone Dark Steel Gloves
+Kite Shield
+Knight Blade
+Kris
+Kukri Short Sword
+Kundun's Greed
+Kundun's Madness Blade
+Kundun's Magic Spell Scroll
+Kundun's Seal Scroll
+Lapid Lance
+Lapid Shield
+Lapis Lazuli Necklace
+Large Complex Potion
+Large Healing Potion
+Large Healing Potion +1
+Large Mana Potion
+Large Round Shield
+Large SD Potion
+Larkan Axe
+Lazy Wind Armor
+Lazy Wind Boots
+Lazy Wind Gloves
+Lazy Wind Helm
+Lazy Wind Pants
+Lazy Wind Shield
+Leather Armor
+Leather Boots
+Leather Gloves
+Leather Helm
+Leather Pants
+Legendary Armor
+Legendary Boots
+Legendary Gloves
+Legendary Helm
+Legendary Pants
+Legendary Rune Armor
+Legendary Rune Boots
+Legendary Rune Gloves
+Legendary Rune Helm
+Legendary Rune Pants
+Legendary Shield
+Legendary Staff
+Legendary Sword
+Lemuria's Orb
+Light Crossbow
+Light Lord Armor
+Light Lord Boots
+Light Lord Gloves
+Light Lord Helm
+Light Lord Pants
+Light Lord Rune Armor
+Light Lord Rune Boots
+Light Lord Rune Gloves
+Light Lord Rune Helm
+Light Lord Rune Mace
+Light Lord Rune Pants
+Light Lord Shield
+Light Plate Armor
+Light Plate Boots
+Light Plate Gloves
+Light Plate Mask
+Light Plate Pants
+Light Saber
+Light Spear
+Lightning Shock Parchment
+Lightning Sword
+Loch's Feather
+Lord's Scepter
+Lorencia Knight's Iron Shield
+Lost Map +1
+Lost Map +2
+Lost Map +3
+Lost Map +4
+Lost Map +5
+Lost Map +6
+Lost Map +7
+Low Refining Stone
+Low Refining Stone Bundle
+Low Refining Stone Bundle +1
+Low Refining Stone Bundle +2
+Lucky Bag Egg
+Mace
+Magic Knight Armor
+Magic Knight Boots
+Magic Knight Gloves
+Magic Knight Pants
+Magic Knight Shield
+Magic Pin Scroll
+Magma Combination Note
+Magmus Peer
+Magni Piercing Blade Glove
+Magni Piercing Grove Armor
+Magni Piercing Grove Boots
+Magni Piercing Grove Helm
+Magni Ring of Wind
+Mahes Black Dragon Pants
+Mahes Bronze Shield
+Mammoth's Bundle of Fur
+Mana Potion
+Master Scepter
+Mastery Box (Greater)
+Mastery Box (Minor)
+Mastery Box (Standard)
+Merciless Gladiator's Dagger
+Meter's Adamantine Armor
+Meter's Adamantine Boots
+Meter's Adamantine Gloves
+Meter's Adamantine Mask
+Meter's Adamantine Pants
+Minet Sphinx Armor
+Minet Sphinx Boots
+Minet Sphinx Pants
+Miracle Combination Note
+Miracle Staff
+Mist Bronze Gloves
+Mist Bronze Helm
+Mist Bronze Pants
+Mithril (Darkness Element)
+Mithril (Earth Element)
+Mithril (Fire Element)
+Mithril (Water Element)
+Mithril (Wind Element)
+Mithril Fragment (Darkness Element)
+Mithril Fragment (Earth Element)
+Mithril Fragment (Fire Element)
+Mithril Fragment (Water Element)
+Mithril Fragment (Wind Element)
+Mithril Fragment Bunch (Darkness Element)
+Mithril Fragment Bunch (Earth Element)
+Mithril Fragment Bunch (Fire Element)
+Mithril Fragment Bunch (Water Element)
+Mithril Fragment Bunch (Wind Element)
+Moloso's Night Wing Armor
+Moloso's Night Wing Gloves
+Moloso's Night Wing Helm
+Moloso's Night Wing Pants
+Monarch's Crest
+Morning Star
+Moros's Scale Armor
+Moros's Scale Boots
+Moros's Scale Gloves
+Moros's Scale Helm
+Moros's Scale Pants
+Muren Atlans Armor
+Muren Atlans Gloves
+Muren Atlans Pants
+Muren Ring of Fire
+Muren's Book of Magic
+Muscular's Holyangel Fighter Armor
+Muscular's Holyangel Fighter Boots
+Muscular's Holyangel Fighter Helm
+Muscular's Holyangel Fighter Pants
+Mystery Stick
+Necklace of Agony
+Nemesis's Red Wing Armor
+Nemesis's Red Wing Boots
+Nemesis's Red Wing Gloves
+Nemesis's Red Wing Helm
+Nemesis's Red Wing Pants
+Night Wing Armor
+Night Wing Boots
+Night Wing Gloves
+Night Wing Helm
+Night Wing Pants
+Nikea Axe
+Norrwen's Bloodstring Lyra
+Novakura Short Sword
+Obsessive's Holyangel Rune Mage Armor
+Obsessive's Holyangel Rune Mage Gloves
+Obsessive's Holyangel Rune Mage Helm
+Obsessive's Holyangel Rune Mage Pants
+Obsidian Scroll
+Odin Wind Armor
+Odin Wind Boots
+Odin Wind Gloves
+Odin Wind Helm
+Odin Wind Pants
+Old Jewelry Case
+Old Scroll +1
+Old Scroll +2
+Old Scroll +3
+Old Scroll +4
+Old Scroll +5
+Old Scroll +6
+Ophion's Violent Wind Armor
+Ophion's Violent Wind Boots
+Ophion's Violent Wind Gloves
+Ophion's Violent Wind Helm
+Ophion's Violent Wind Pants
+Orb of Death Stab
+Orb of Fire Blood
+Orb of Fire Blow
+Orb of Fire Slash
+Orb of Focus Shot
+Orb of Greater Damage
+Orb of Greater Fortitude
+Orb of Ice Arrow
+Orb of Ice Blood
+Orb of Impale
+Orb of Penetration
+Orb of Rageful Blow
+Orb of Twisting Slash
+Pad Armor
+Pad Boots
+Pad Gloves
+Pad Helm
+Pad Pants
+Pantera Claws
+Pants of Bravery
+Pants of Destruction
+Parchment of Aqua Beast
+Parchment of Dark Phoenix Shot
+Parchment of Fire Beast
+Parchment of Soul
+Parchment of Spirit Hook
+Paring Short Sword
+Peace's Holyangel Wizard Armor
+Peace's Holyangel Wizard Gloves
+Peace's Holyangel Wizard Helm
+Peace's Holyangel Wizard Pants
+Pendant of Ability
+Pendant of Fire
+Pendant of Ice
+Pendant of Lightning
+Pendant of Water
+Pendant of Wind
+Pentagram for Beginners
+Pet Panda
+Pet Rudolph
+Pet Skeleton
+Pet Unicorn
+Phantasmal Steed
+Phantom Armor
+Phantom Boots
+Phantom Gloves
+Phantom Pants
+Phoenix Soul Armor
+Phoenix Soul Boots
+Phoenix Soul Helm
+Phoenix Soul Pants
+Phoenix Soul Star
+Piercing Blade Glove
+Piercing Grove Armor
+Piercing Grove Boots
+Piercing Grove Helm
+Piercing Grove Pants
+Plate Armor
+Plate Boots
+Plate Gloves
+Plate Helm
+Plate Pants
+Plate Shield
+Platina Staff
+Pluma Lance
+Pluma Shield
+Plural's Bloodangel Rune Mage Armor
+Plural's Bloodangel Rune Mage Gloves
+Plural's Bloodangel Rune Mage Helm
+Plural's Bloodangel Rune Mage Pants
+Pollution Parchment
+Potion of Blessing
+Potion of Soul
+Premium Muun Egg
+Prickle Lance
+Princie Armor
+Princie Boots
+Princie Gloves
+Princie Helm
+Princie Pants
+Protect's Holyangel Knight Armor
+Protect's Holyangel Knight Boots
+Protect's Holyangel Knight Helm
+Protect's Holyangel Knight Pants
+Protection Ring
+Protector Protection Ring
+Pumpkin of Luck
+Punishing's Holyangel Slayer Armor
+Punishing's Holyangel Slayer Gloves
+Punishing's Holyangel Slayer Helm
+Punishing's Holyangel Slayer Pants
+Purple Box
+Rapier
+Rave Plate Armor
+Rave Plate Helm
+Rave Plate Pants
+Rave Stick
+Rectuus Lance
+Red Box
+Red Cherry Blossom Branch
+Red Ink
+Red Spirit Armor
+Red Spirit Boots
+Red Spirit Gloves
+Red Spirit Helm
+Red Spirit Pants
+Red Wing Armor
+Red Wing Boots
+Red Wing Gloves
+Red Wing Helm
+Red Wing Pants
+Red Wing Stick
+Reigning Cloak
+Rena
+Requiem Parchment
+Resolution's Holyangel Lord Armor
+Resolution's Holyangel Lord Gloves
+Resolution's Holyangel Lord Mask
+Resolution's Holyangel Lord Pants
+Resurgen's Darkangel Elf Armor
+Resurgen's Darkangel Elf Gloves
+Resurgen's Darkangel Elf Helm
+Resurgen's Darkangel Elf Pants
+Retribution's Darkangel Lancer Armor
+Retribution's Darkangel Lancer Gloves
+Retribution's Darkangel Lancer Helm
+Retribution's Darkangel Lancer Pants
+Ring of Earth
+Ring of Fire
+Ring of Honor
+Ring of Ice
+Ring of Magic
+Ring of Poison
+Ring of Ultimatum
+Ring of Wind
+Robust Armor
+Robust Boots
+Robust Gloves
+Robust Helm
+Robust Pants
+Royal Armor
+Royal Boots
+Royal Gloves
+Royal Mask
+Royal Pants
+Rune Bastard Sword
+Rune Blade
+Rune Padded Armor
+Rune Padded Boots
+Rune Padded Gloves
+Rune Padded Helm
+Rune Padded Pants
+Rune Sphinx Armor
+Rune Sphinx Boots
+Rune Sphinx Gloves
+Rune Sphinx Helm
+Rune Sphinx Pants
+Runedil's Goldentune Harp
+Russell Light Lance
+SD Potion
+STA Fruit
+STR Fruit
+Sacred Fire Armor
+Sacred Fire Boots
+Sacred Fire Helm
+Sacred Fire Pants
+Sacred Glove
+Sacred's Holyangel Lancer Armor
+Sacred's Holyangel Lancer Gloves
+Sacred's Holyangel Lancer Helm
+Sacred's Holyangel Lancer Pants
+Saint Crossbow
+Salamander Shield
+Salvation's Bloodangel Elf Armor
+Salvation's Bloodangel Elf Gloves
+Salvation's Bloodangel Elf Helm
+Salvation's Bloodangel Elf Pants
+Sate Armor
+Sate Boots
+Sate Gloves
+Sate Helm
+Sate Pants
+Scale Armor
+Scale Boots
+Scale Gloves
+Scale Helm
+Scale Pants
+Scroll of Aqua Beam
+Scroll of Blood +1
+Scroll of Blood +2
+Scroll of Blood +3
+Scroll of Blood +4
+Scroll of Blood +5
+Scroll of Blood +6
+Scroll of Comet Fall
+Scroll of Dark Blast
+Scroll of Decay
+Scroll of Etramu
+Scroll of Evil Spirit
+Scroll of Fire Ball
+Scroll of Flame
+Scroll of Gigantic Storm
+Scroll of Hellfire
+Scroll of Ice
+Scroll of Ice Storm
+Scroll of Inferno
+Scroll of Lightning
+Scroll of Meteor Storm
+Scroll of Meteor Strike
+Scroll of Meteorite
+Scroll of Nova
+Scroll of Poison
+Scroll of Power Wave
+Scroll of Soul Barrier
+Scroll of Soul Seeker
+Scroll of Teleport
+Scroll of Teleport Ally
+Scroll of Twister
+Scroll of Wind Soul
+Scroll of Wizardry Enhance
+Scroll of the Emperor
+Sealed Golden Box
+Sealed Scroll of Blue Oblivion
+Sealed Scroll of Gray Oblivion
+Sealed Scroll of Green Oblivion
+Sealed Scroll of Red Oblivion
+Sealed Silver Box
+Seed (Earth)
+Seed (Fire)
+Seed (Ice)
+Seed (Lightning)
+Seed (Water)
+Seed (Wind)
+Seed Sphere (Earth)
+Seed Sphere (Fire)
+Seed Sphere (Ice)
+Seed Sphere (Lightning)
+Seed Sphere (Water)
+Seed Sphere (Wind)
+Semeden Red Wing Armor
+Semeden Red Wing Boots
+Semeden Red Wing Gloves
+Semeden Red Wing Helm
+Seraphim Armor
+Seraphim Boots
+Seraphim Gloves
+Seraphim Helm
+Seraphim Pants
+Serket Iris Helm
+Serket Iris Pants
+Serpent Crossbow
+Serpent Shield
+Serpent Spear
+Serpent Staff
+Serpent Sword
+Shining Jewelry Case
+Shining Peak Scroll
+Shining Scepter
+Short Bow
+Short Sword
+Sign of lord
+Silk Armor
+Silk Boots
+Silk Gloves
+Silk Helm
+Silk Pants
+Silver Bow
+Silver Box
+Silver Key
+Skull Shield
+Skull Staff
+Slayer Ancient Armor
+Slayer Ancient Boots
+Slayer Ancient Gloves
+Slayer Ancient Helm
+Slayer Ancient Pants
+Slayer Demonic Armor
+Slayer Demonic Boots
+Slayer Demonic Gloves
+Slayer Demonic Helm
+Slayer Demonic Pants
+Slayer Red Wing Armor
+Slayer Red Wing Boots
+Slayer Red Wing Gloves
+Slayer Red Wing Helm
+Slayer Red Wing Pants
+Sleep Parchment
+Small Axe
+Small Complex Potion
+Small Healing Potion
+Small Healing Potion +1
+Small Mana Potion
+Small SD Potion
+Small Shield
+Snowman Transformation Ring
+Soldier Summoning Orb
+Soleil Scepter
+Solid Symbol
+Solid's Holyangel Magic Armor
+Solid's Holyangel Magic Boots
+Solid's Holyangel Magic Gloves
+Solid's Holyangel Magic Pants
+Sonic Blade
+Sonic Combination Note
+Soul Combination Note
+Soul of Dark Horse
+Soul of Dark Spirit
+Soulbringer
+Spear
+Speed's Darkangel Elf Armor
+Speed's Darkangel Elf Gloves
+Speed's Darkangel Elf Helm
+Speed's Darkangel Elf Pants
+Sphere (Di)
+Sphere (Mono)
+Sphere (Tetra)
+Sphere (Tri)
+Sphinx Armor
+Sphinx Boots
+Sphinx Gloves
+Sphinx Helm
+Sphinx Pants
+Spiked Shield
+Spin Step Scroll
+Spirit Armor
+Spirit Boots
+Spirit Gloves
+Spirit Helm
+Spirit Map
+Spirit Map Fragment
+Spirit Pants
+Spirit Powder
+Spite Combination Note
+Spite Staff
+Staff of Destruction
+Staff of Kundun
+Staff of Resurrection
+Steel Jewelry Case
+Sticky Armor
+Sticky Boots
+Sticky Gloves
+Sticky Helm
+Sticky Pants
+Stone Golem Summoning Orb
+Storm Blitz Armor
+Storm Blitz Boots
+Storm Blitz Gloves
+Storm Blitz Helm
+Storm Blitz Pants
+Storm Blitz Stick
+Storm Zahard Armor
+Storm Zahard Boots
+Storm Zahard Helm
+Storm Zahard Pants
+Stormwing Armor
+Stormwing Boots
+Stormwing Gloves
+Stormwing Helm
+Stormwing Pants
+Striker Scepter
+Succubus Armor
+Succubus Boots
+Succubus Gloves
+Succubus Helm
+Succubus Pants
+Summon Scroll
+Summon Scroll (Lv1)
+Summon Scroll (Lv2)
+Summon Scroll (Lv3)
+Summon Scroll (Lv4)
+Sunlight Armor
+Sunlight Boots
+Sunlight Gloves
+Sunlight Mask
+Sunlight Pants
+Surt Glorious Armor
+Surt Glorious Boots
+Surt Glorious Gloves
+Surt Glorious Mask
+Surt Lord's Scepter
+Suspicious Scrap of Paper
+Swell Life Orb
+Sword Breaker
+Sword Dancer
+Sword of Assassin
+Sword of Destruction
+Sword of Salamander
+Sylion Bone Armor
+Sylion Bone Boots
+Sylion Bone Gloves
+Sylion Bone Helm
+Sylph Wind Bow
+Sylphid Ray Armor
+Sylphid Ray Boots
+Sylphid Ray Gloves
+Sylphid Ray Helm
+Sylphid Ray Pants
+Symbol of Kundun +1
+Symbol of Kundun +2
+Symbol of Kundun +3
+Symbol of Kundun +4
+Symbol of Kundun +5
+Symbol of Kundun +6
+Symbol of Kundun +7
+Tantolos' Anger
+Taros's Legendary Armor
+Taros's Legendary Boots
+Taros's Legendary Gloves
+Taros's Legendary Helm
+Taros's Legendary Pants
+Tear of Elf
+Tenacity's Bloodangel Lancer Armor
+Tenacity's Bloodangel Lancer Gloves
+Tenacity's Bloodangel Lancer Helm
+Tenacity's Bloodangel Lancer Pants
+Tetra Crystal (Greater)
+Tetra Crystal (Minor)
+Tetra Crystal (Standard)
+Thoughtful Sage's Jewel
+Thunder Blade
+Thunder Combination Note
+Thunder Hawk Armor
+Thunder Hawk Boots
+Thunder Hawk Gloves
+Thunder Hawk Pants
+Thunder Staff
+Thunderbolt
+Tiger Bow
+Tigris Armor
+Tigris Boots
+Tigris Helm
+Tigris Pants
+Titan Armor
+Titan Boots
+Titan Gloves
+Titan Helm
+Titan Pants
+Titan's Anger
+Tomahawk
+Tower Shield
+Town Portal Scroll
+Trace Armor
+Trace Boots
+Trace Gloves
+Trace Helm
+Trace Pants
+Transcendence's Bloodangel Wizard Armor
+Transcendence's Bloodangel Wizard Gloves
+Transcendence's Bloodangel Wizard Helm
+Transcendence's Bloodangel Wizard Pants
+Trite's Storm Zahard Armor
+Trite's Storm Zahard Boots
+Trite's Storm Zahard Helm
+Trite's Storm Zahard Pants
+Tyr Pendant of Lightning
+Tyr Rune Blade
+Tyr Thunder Hawk Boots
+Tyr Thunder Hawk Gloves
+Tyr Thunder Hawk Pants
+Unique Accessory Box
+Unique Weapon Box
+Valiant Armor
+Valiant Boots
+Valiant Gloves
+Valiant Pants
+Vega Sacred Fire Armor
+Vega Sacred Fire Helm
+Vega Sacred Fire Pants
+Vega Sacred Glove
+Venom Mist Armor
+Venom Mist Boots
+Venom Mist Gloves
+Venom Mist Helm
+Venom Mist Pants
+Vesper's Night Wing Armor
+Vesper's Night Wing Boots
+Vesper's Night Wing Gloves
+Vesper's Night Wing Pants
+Vicious Dragon Armor
+Vicious Dragon Helm
+Vicious Dragon Pants
+Vicious Ring of Earth
+Vine Armor
+Vine Boots
+Vine Gloves
+Vine Helm
+Vine Pants
+Violent Wind Armor
+Violent Wind Boots
+Violent Wind Gloves
+Violent Wind Helm
+Violent Wind Pants
+Violent Wind Stick
+Vis Lance
+Vis Shield
+Volcano Armor
+Volcano Boots
+Volcano Gloves
+Volcano Pants
+War Quiver
+WareRabbit Egg
+Warrior Leather Armor
+Warrior Leather Boots
+Warrior Leather Gloves
+Warrior Leather Helm
+Warrior Leather Pants
+Warrior Morning Star
+Warrior Ring of Ice
+Warrior's Cloak
+Weakness Parchment
+White Cherry Blossom Branch
+Will's Darkangel Fighter Armor
+Will's Darkangel Fighter Boots
+Will's Darkangel Fighter Helm
+Will's Darkangel Fighter Pants
+Wind Armor
+Wind Boots
+Wind Gloves
+Wind Helm
+Wind Pants
+Wing of Celestial Body
+Wing of Dimension
+Wing of Illusion
+Wings of Annihilation
+Wings of Chaos
+Wings of Conviction
+Wings of Curse
+Wings of Despair
+Wings of Disillusion
+Wings of Dragon
+Wings of Elf
+Wings of Elysium
+Wings of Fate
+Wings of Flame God
+Wings of Heaven
+Wings of Life
+Wings of Magic
+Wings of Other World
+Wings of Ruin
+Wings of Satan
+Wings of Silence
+Wings of Soul
+Wings of Spirit
+Wings of Storm
+Wisdom's Darkangel Wizard Armor
+Wisdom's Darkangel Wizard Gloves
+Wisdom's Darkangel Wizard Helm
+Wisdom's Darkangel Wizard Pants
+Wizard's Ring
+Wizard's Soul Shard
+Wrath Scroll
